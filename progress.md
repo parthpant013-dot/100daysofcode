@@ -8,3 +8,7 @@
 - Practiced C programming based on challenge tasks.
 - Wrote or improved code for the daily problem.
 
+### Day (2025-08-23)
+- Practiced C programming based on challenge tasks.
+- Wrote or improved code for the daily problem.
+
