@@ -9,7 +9,8 @@ int main()
     { 
         a=n%2;
         x=x+a*y; 
-        n/=2; y=y*10; 
+        n/=2; 
+        y=y*10; 
     } 
     printf("%d",x); 
     return 0;
